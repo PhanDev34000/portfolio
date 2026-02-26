@@ -16,7 +16,7 @@ Ce dépôt centralise l’ensemble de mes projets visibles sur GitHub.
 | Projet                  | Description                                      | Live                        |
 |-------------------------|--------------------------------------------------|-----------------------------|
 | **Stephaneverniere.fr** | Plateforme fullstack avec espace client sécurisé | https://stephaneverniere.fr |
-| **Verniere-dev.fr**     | Site vitrine développeur                         | https://verniere-dev.fr     |
+| **Verniere-dev.com**     | Site vitrine développeur                         | https://verniere-dev.com     |
 | **Dogpix.fr**           | Site WordPress (Divi)                            | https://dogpix.fr           |
 | **Corbin-photo.fr**     | Site WordPress (Divi)                            | https://corbin-photo.fr     |
 
@@ -54,7 +54,7 @@ Plateforme professionnelle développée pour la gestion de galeries photos clien
 
 ---
 
-## 💻 Verniere-dev
+## 💻 Verniere-dev.com
 
 ![Verniere-dev](assets/verniere-dev.png)
 
