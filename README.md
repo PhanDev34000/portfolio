@@ -28,7 +28,9 @@ Ce dépôt centralise l’ensemble de mes projets visibles sur GitHub.
 
 ## 📸 Stephaneverniere.fr
 
-![Stephaneverniere](assets/stephaneverniere.png)
+<div align="center">
+  <img src="assets/stephaneverniere.png" />
+</div>
 
 Plateforme professionnelle développée pour la gestion de galeries photos clients.
 
@@ -56,7 +58,9 @@ Plateforme professionnelle développée pour la gestion de galeries photos clien
 
 ## 💻 Verniere-dev.com
 
-![Verniere-dev](assets/verniere-dev.png)
+<div align="center">
+  <img src="assets/verniere-dev.png" />
+</div>
 
 Site vitrine développeur présentant mon parcours, mes compétences et mes projets.
 
@@ -79,7 +83,9 @@ Site vitrine développeur présentant mon parcours, mes compétences et mes proj
 
 ## 💍 Margaux Julien 
 
-![Margaux Julien](assets/margauxjulien.png)
+<div align="center">
+  <img src="assets/margauxjulien.png" />
+</div>
 
 Site vitrine développé en PHP.
 
@@ -107,7 +113,9 @@ Site vitrine développé en PHP.
 
 ## 🍽 Cook4U 
 
-![Cook4U](assets/cook4u.png)
+<div align="center">
+  <img src="assets/cook4u.png" />
+</div>
 
 Application PHP développée dans le cadre d’un projet de formation.
 
@@ -179,7 +187,9 @@ Plateforme complète de réservation de cinéma développée dans le cadre de ma
 
 ### 🐶 Dogpix.fr
 
-![dogpix](assets/dogpix.png)
+<div align="center">
+  <img src="assets/dogpix.png" />
+</div>
 
 Site vitrine pour présenter l'activité de photographe canin.
 Site WordPress réalisé avec le thème Divi.
@@ -187,7 +197,9 @@ Site WordPress réalisé avec le thème Divi.
 
 ### 📷 Corbin-photo.fr
 
-![Corbin-photo](assets/corbin-photo.png)
+<div align="center">
+  <img src="assets/corbin-photo.png" />
+</div>
 
 Site vitrine pour présenter l'activité d'un photographe scolaire.
 Site WordPress réalisé avec le thème Divi.
