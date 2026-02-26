@@ -134,7 +134,9 @@ Application PHP développée dans le cadre d’un projet de formation.
 
 ## 🎬 Cinephoria
 
-![Cinephoria](assets/cinephoria.png)
+<div align="center">
+  <img src="assets/cinephoria.png" />
+</div>
 
 Plateforme complète de réservation de cinéma développée dans le cadre de ma formation Bachelor Angular.
 
