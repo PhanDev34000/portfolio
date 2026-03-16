@@ -13,13 +13,13 @@ Ce dépôt centralise l’ensemble de mes projets visibles sur GitHub.
 
 # 🌐 Projets en ligne
 
-| Projet                 | Description                                      | Live                                |
-|------------------------|--------------------------------------------------|------------------------------------ |
-| **Stephaneverniere.fr**| Plateforme fullstack avec espace client sécurisé | https://stephaneverniere.fr         |
-| **Verniere-dev.com**   | Site vitrine développeur                         | https://verniere-dev.com            |
-| **Task Manager   **    | Gestionnaire de tâches interactif (Angular)      | task-manager-app-ten-jet.vercel.app |
-| **Dogpix.fr**          | Site WordPress (Divi)                            | https://dogpix.fr                   |
-| **Corbin-photo.fr**    | Site WordPress (Divi)                            | https://corbin-photo.fr             |
+| Projet                  | Description                                      | Live                                |
+| ----------------------- | ------------------------------------------------ | ----------------------------------- |
+| **Stephaneverniere.fr** | Plateforme fullstack avec espace client sécurisé | https://stephaneverniere.fr         |
+| **Verniere-dev.com**    | Site vitrine développeur                         | https://verniere-dev.com            |
+| Task Manager           |Gestionnaire de tâches interactif (Angular)| https://task-manager-app-ten-jet.vercel.app |
+| **Dogpix.fr**           | Site WordPress (Divi)                            | https://dogpix.fr                   |
+| **Corbin-photo.fr**     | Site WordPress (Divi)                            | https://corbin-photo.fr             |
 
 ---
 
@@ -82,7 +82,7 @@ Site vitrine développeur présentant mon parcours, mes compétences et mes proj
 
 ---
 
-## 💍 Margaux Julien 
+## 💍 Margaux Julien
 
 <div align="center">
   <img src="assets/margauxjulien.png" />
@@ -112,7 +112,7 @@ Site vitrine développé en PHP.
 
 # Projets pédagogiques
 
-## 🍽 Cook4U 
+## 🍽 Cook4U
 
 <div align="center">
   <img src="assets/cook4u.png" />
@@ -152,6 +152,7 @@ Plateforme complète de réservation de cinéma développée dans le cadre de ma
 ### Fonctionnalités principales
 
 **Espace Administrateur**
+
 - Gestion des villes
 - Gestion des cinémas
 - Gestion des salles
@@ -160,6 +161,7 @@ Plateforme complète de réservation de cinéma développée dans le cadre de ma
 - Gestion des incidents
 
 **Espace Utilisateur**
+
 - Création de compte
 - Authentification sécurisée (JWT)
 - Réservation de séances
@@ -167,6 +169,7 @@ Plateforme complète de réservation de cinéma développée dans le cadre de ma
 - Consultation de l’historique
 
 **Version mobile**
+
 - Affichage des séances à venir
 - Génération d’un QR Code pour chaque billet
 - Lecture QR pour validation par employé
@@ -231,7 +234,6 @@ Mini SaaS de gestion de tâches type Trello, déployé en production.
 Site vitrine pour présenter l'activité de photographe canin.
 Site WordPress réalisé avec le thème Divi.
 
-
 ### 📷 Corbin-photo.fr
 
 <div align="center">
@@ -246,18 +248,23 @@ Site WordPress réalisé avec le thème Divi.
 # 🛠 Compétences techniques
 
 ### Frontend
+
 Angular • HTML • CSS • JavaScript • Responsive Design
 
 ### Backend
+
 Node.js • Express • PHP
 
 ### Base de données
+
 MongoDB • MySQL
 
 ### Sécurité & Architecture
+
 JWT • Guards Angular • API REST • Gestion des rôles • Architecture modulaire
 
 ### Outils
+
 Git • GitHub • Docker • Thunder Client • Jest • Supertest
 
 # 📫 Contact
