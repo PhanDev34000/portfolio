@@ -183,6 +183,42 @@ Plateforme complète de réservation de cinéma développée dans le cadre de ma
 
 ---
 
+## Task Manager
+
+<div align="center">
+  <img src="assets/TaskManager.PNG" />
+  <img src="assets/TaskManager_1.PNG" />
+</div>
+
+Mini SaaS de gestion de tâches type Trello, déployé en production.
+
+### Fonctionnalités
+
+- Authentification sécurisée (JWT)
+- Gestion de tâches multi-utilisateurs (chaque utilisateur voit uniquement ses tâches)
+- 3 colonnes de statut : À faire / En cours / Terminé
+- Drag & Drop entre colonnes (Angular CDK)
+- Priorités et dates d'échéance
+- Design Dark Elegant responsive (glassmorphism)
+- Formulaires réactifs avec validation en temps réel
+- Tests unitaires (Vitest)
+
+### Architecture
+
+- Frontend : Angular 18 (standalone components, RxJS, Reactive Forms, CDK)
+- Backend : Node.js / Express (API REST)
+- Base de données : MongoDB Atlas
+- Sécurité : JWT + Guards + Intercepteurs HTTP
+- Déploiement : Vercel (frontend) + Render (backend)
+
+🌐 Live : https://task-manager-app-ten-jet.vercel.app
+🔗 Code Frontend : https://github.com/PhanDev34000/task-manager-app
+🔗 Code Backend : https://github.com/PhanDev34000/task-manager-api
+
+🔐 L'inscription est libre et rapide.
+
+---
+
 # 🌐 Projets WordPress
 
 ### 🐶 Dogpix.fr
