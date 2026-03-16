@@ -205,7 +205,7 @@ Mini SaaS de gestion de tâches type Trello, déployé en production.
 - Priorités et dates d'échéance
 - Design Dark Elegant responsive (glassmorphism)
 - Formulaires réactifs avec validation en temps réel
-- Tests unitaires (Vitest)
+- Tests unitaires 
 
 ### Architecture
 
