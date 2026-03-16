@@ -13,12 +13,13 @@ Ce dépôt centralise l’ensemble de mes projets visibles sur GitHub.
 
 # 🌐 Projets en ligne
 
-| Projet                  | Description                                      | Live                        |
-|-------------------------|--------------------------------------------------|-----------------------------|
-| **Stephaneverniere.fr** | Plateforme fullstack avec espace client sécurisé | https://stephaneverniere.fr |
-| **Verniere-dev.com**     | Site vitrine développeur                         | https://verniere-dev.com     |
-| **Dogpix.fr**           | Site WordPress (Divi)                            | https://dogpix.fr           |
-| **Corbin-photo.fr**     | Site WordPress (Divi)                            | https://corbin-photo.fr     |
+| Projet                 | Description                                      | Live                                |
+|------------------------|--------------------------------------------------|------------------------------------ |
+| **Stephaneverniere.fr**| Plateforme fullstack avec espace client sécurisé | https://stephaneverniere.fr         |
+| **Verniere-dev.com**   | Site vitrine développeur                         | https://verniere-dev.com            |
+| **Task Manager   **    | Gestionnaire de tâches interactif (Angular)      | task-manager-app-ten-jet.vercel.app |
+| **Dogpix.fr**          | Site WordPress (Divi)                            | https://dogpix.fr                   |
+| **Corbin-photo.fr**    | Site WordPress (Divi)                            | https://corbin-photo.fr             |
 
 ---
 
