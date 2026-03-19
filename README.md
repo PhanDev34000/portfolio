@@ -17,7 +17,8 @@ Ce dépôt centralise l’ensemble de mes projets visibles sur GitHub.
 | ----------------------- | ------------------------------------------------ | ----------------------------------- |
 | **Stephaneverniere.fr** | Plateforme fullstack avec espace client sécurisé | https://stephaneverniere.fr         |
 | **Verniere-dev.com**    | Site vitrine développeur                         | https://verniere-dev.com            |
-| Task Manager           |Gestionnaire de tâches interactif (Angular)| https://task-manager-app-ten-jet.vercel.app |
+| **Task Manager**        |Gestionnaire de tâches interactif (Angular)| https://task-manager-app-ten-jet.vercel.app |
+| **Social Media Planner**| Planificateur de publications réseaux sociaux (Angular) | https://social-media-planner-wine.vercel.app |
 | **Dogpix.fr**           | Site WordPress (Divi)                            | https://dogpix.fr                   |
 | **Corbin-photo.fr**     | Site WordPress (Divi)                            | https://corbin-photo.fr             |
 
@@ -220,6 +221,48 @@ Mini SaaS de gestion de tâches type Trello, déployé en production.
 🔗 Code Backend : https://github.com/PhanDev34000/task-manager-api
 
 🔐 L'inscription est libre et rapide.
+
+---
+
+## 📱 Social Media Planner
+
+<div align="center">
+  <img src="assets/SMP_1.PNG" />
+  <img src="assets/SMP_2.PNG" />
+</div>
+
+Planificateur de publications pour réseaux sociaux avec calendrier visuel, système de notifications et statistiques.
+
+### Fonctionnalités principales
+
+- **CRUD complet** : Création, édition, suppression de posts
+- **Calendrier visuel** : Vue mensuelle avec navigation et codes couleur par statut
+- **Dashboard** : Statistiques temps réel (total, par statut, activité récente)
+- **Notifications** : Alertes automatiques quand un post doit être publié
+- **Filtres** : Par statut (Brouillon / Planifié / Publié)
+- **Dark mode** : Avec sauvegarde de préférence utilisateur
+- **Responsive** : Mobile, tablette, desktop
+
+### Architecture
+
+- **Frontend** : Angular 19 (composants standalone)
+- **Services** : Architecture réactive avec RxJS (BehaviorSubject, Observables)
+- **Persistance** : localStorage pour MVP rapide
+- **Design** : SCSS avec variables CSS, animations fluides
+- **Optimisation** : ChangeDetectorRef pour performances optimales
+- **Déploiement** : Vercel avec déploiement automatique depuis GitHub
+
+### Points techniques
+
+- Calendrier personnalisé (sans librairie externe)
+- Gestion d'état réactif (Observable pattern)
+- Système de notifications avec `setInterval` + `NgZone`
+- Filtrage dynamique temps réel
+- Édition inline avec scroll automatique
+- Architecture modulaire et maintenable
+
+🌐 Live : https://social-media-planner-wine.vercel.app  
+🔗 Code : https://github.com/PhanDev34000/Social-media-planner
 
 ---
 
