@@ -19,7 +19,7 @@ Ce dépôt centralise l’ensemble de mes projets visibles sur GitHub.
 | **Verniere-dev.com**    | Site vitrine développeur                         | https://verniere-dev.com            |
 | **Task Manager**        |Gestionnaire de tâches interactif (Angular)| https://task-manager-app-ten-jet.vercel.app |
 | **Social Media Planner**| Planificateur de publications réseaux sociaux (Angular) | https://social-media-planner-wine.vercel.app |
-|  ** Galerie App **      | Application de partage de galeries photos entre photographes et clients.| https://gallery-app-five-iota.vercel.app  |
+|     Galerie App         | Application de partage de galeries photos entre photographes et clients.| https://gallery-app-five-iota.vercel.app  |
 | **Dogpix.fr**           | Site WordPress (Divi)                            | https://dogpix.fr                   |
 | **Corbin-photo.fr**     | Site WordPress (Divi)                            | https://corbin-photo.fr             |
 
