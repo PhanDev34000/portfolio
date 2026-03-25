@@ -19,6 +19,7 @@ Ce dépôt centralise l’ensemble de mes projets visibles sur GitHub.
 | **Verniere-dev.com**    | Site vitrine développeur                         | https://verniere-dev.com            |
 | **Task Manager**        |Gestionnaire de tâches interactif (Angular)| https://task-manager-app-ten-jet.vercel.app |
 | **Social Media Planner**| Planificateur de publications réseaux sociaux (Angular) | https://social-media-planner-wine.vercel.app |
+|  ** Galerie App **      | Application de partage de galeries photos entre photographes et clients.| https://gallery-app-five-iota.vercel.app  |
 | **Dogpix.fr**           | Site WordPress (Divi)                            | https://dogpix.fr                   |
 | **Corbin-photo.fr**     | Site WordPress (Divi)                            | https://corbin-photo.fr             |
 
@@ -263,6 +264,56 @@ Planificateur de publications pour réseaux sociaux avec calendrier visuel, syst
 
 🌐 Live : https://social-media-planner-wine.vercel.app  
 🔗 Code : https://github.com/PhanDev34000/Social-media-planner
+
+---
+
+## 📷 Gallery App
+
+<div align="center">
+  <img src="assets/GalerieApp.PNG" />
+  <img src="assets/GalerieApp_1.PNG" />
+</div>
+
+Application de partage de galeries photos entre photographes et clients. 
+Upload de photos, sélection de favoris, téléchargement ZIP et envoi par email.
+
+### Fonctionnalités
+
+- Authentification sécurisée (JWT)
+- Création et gestion de galeries photos
+- Upload multiple par drag & drop (jusqu'à 50 photos)
+- Vue publique client via URL unique sécurisée
+- Lightbox plein écran avec navigation clavier
+- Système de favoris ❤️ pour sélection des photos
+- Téléchargement ZIP des photos favorites
+- Envoi du lien par email (EmailJS / Gmail)
+- Protection optionnelle par mot de passe
+- Design professionnel & sobre responsive
+
+### Architecture
+
+- Frontend : Angular 21 (standalone components, RxJS)
+- Backend : Node.js / Express (API REST)
+- Base de données : MongoDB Atlas
+- Stockage photos : Cloudinary
+- Emails : EmailJS
+- Sécurité : JWT + Guards + Intercepteurs HTTP
+- Déploiement : Vercel (frontend) + Render (backend)
+
+### Points techniques
+
+- Upload fichiers avec Multer + Cloudinary
+- Génération d'URLs uniques sécurisées (crypto)
+- Téléchargement ZIP dynamique (Archiver)
+- Drag & Drop avec ngx-dropzone
+- ChangeDetectorRef pour la gestion asynchrone
+- Hashage des mots de passe (bcrypt)
+
+🌐 Live : https://gallery-app-five-iota.vercel.app
+🔗 Code Frontend : https://github.com/PhanDev34000/gallery-app
+🔗 Code Backend : https://github.com/PhanDev34000/gallery-api
+
+🔐 L'inscription est libre et rapide.
 
 ---
 
