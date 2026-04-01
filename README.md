@@ -34,8 +34,8 @@ Ce dépôt centralise l'ensemble de mes projets visibles sur GitHub.
 ## 📄 Devis Manager
 
 <div align="center">
-  <img src="assets/Dashboard.png" />
-  <img src="assets/Devis.png" />
+  <img src="assets/Dashboard.PNG" />
+  <img src="assets/Devis.PNG" />
 </div>
 
 Gestionnaire de devis freelance complet, construit avec la stack MEAN et NgRx.
