@@ -16,6 +16,7 @@ Ce dépôt centralise l'ensemble de mes projets visibles sur GitHub.
 
 | Projet                  | Description                                      | Live                                |
 | ----------------------- | ------------------------------------------------ | ----------------------------------- |
+| Chatbot Documentaire IA | Chatbot Angular + API Claude Anthropic, analyse de PDF | https://chatbot-claude-by-sv.netlify.app |
 | **Stephaneverniere.fr** | Plateforme fullstack avec espace client sécurisé | https://stephaneverniere.fr         |
 | **Verniere-dev.com**    | Site vitrine développeur                         | https://verniere-dev.com            |
 | **Devis Manager**       | Gestionnaire de devis freelance (MEAN + NgRx)    | https://devis-manager-frontend.vercel.app |
@@ -28,6 +29,33 @@ Ce dépôt centralise l'ensemble de mes projets visibles sur GitHub.
 ---
 
 # 🚀 Projets Angular
+
+---
+
+## 🤖 Chatbot Documentaire IA
+
+<div align="center">
+  <img src="assets/Chatbot.PNG" />
+</div>
+
+Application Angular de chatbot intelligent alimenté par l'API Claude d'Anthropic.  
+Upload d'un document PDF et conversation contextuelle basée sur son contenu.
+
+### Fonctionnalités
+- Streaming des réponses en temps réel
+- Upload et analyse de documents PDF
+- Historique de conversation contextuel
+- Interface moderne avec Tailwind CSS
+
+### Architecture
+- **Frontend** : Angular 21 (standalone components)
+- **IA** : API Claude Anthropic (modèle Haiku, appels fetch natifs)
+- **PDF** : pdfjs-dist v5.6.205
+- **Style** : Tailwind CSS 3
+- **Déploiement** : Netlify
+
+🌐 **Live** : https://chatbot-claude-by-sv.netlify.app  
+🔗 **Code** : https://github.com/PhanDev34000/chatbot
 
 ---
 
